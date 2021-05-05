@@ -82,7 +82,7 @@ Para ejecutar el endpoint "/topsecret" correspondiente al Nivel 2, se tendra que
     ]
 }
 ```
-### Ejecucion Nivel 2 del Challenge
+### Ejecucion Nivel 3 del Challenge
 
 Para ejecutar el endpoint "/topsecret_split/{satellite_name}" correspondiente al metodo POST del Nivel 3, se tendra que utilizar una request con el siguiente formato :
 
@@ -100,13 +100,15 @@ Para ejecutar el endpoint "/topsecret_split/{satellite_name}" correspondiente al
 
 satellite_name : (sato,skywalker,kenobi)
 ```
+
+Para ejecutar el endpoint "/topsecret_split" basta con seleccionar y ejecutar
+
 ## Herramientas Utilizadas 🛠️
 
 Se utilizaron las siguientes herramientas para el desarrollo :
 
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Maven](https://maven.apache.org/)
-* [Docker](https://www.docker.com/)
 
 
 ## Autor ✒️

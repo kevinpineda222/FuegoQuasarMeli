@@ -16,8 +16,6 @@ satélite.
 
 ## Comenzando 🚀
 
-El proyeto podra ejecutarse localmente o ejecutando un contenedor de Docker
-
 ### Pre-requisitos 📋
 
 Se debe tener instalado Maven y JDK
